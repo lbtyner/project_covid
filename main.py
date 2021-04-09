@@ -1,15 +1,13 @@
 import numpy as np
 import pandas as pd
-from scipy.stats import wilcoxon, mannwhitneyu, shapiro
+from scipy.stats import mannwhitneyu, shapiro
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import os
 import urllib
 from datetime import datetime, timedelta
 import statsmodels.api as sm
-import scipy
 from sklearn.preprocessing import StandardScaler
-import scipy.stats
 import tkinter as tk
 from tkinter import ttk
 
