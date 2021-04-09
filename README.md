@@ -1,12 +1,12 @@
 # project_covid
 INFORMATION ABOUT THE PROGRAM 
-Showing the distribution of deaths per day within a country, since the
-first death was reported(Population).then showing distribution of deaths per
-day after the first person was vaccinated on 8/12/2020(Sample). testing if
+This programme shows the distribution of coronavirus (SARS-C0V-2) deaths per day within a country, since the
+first death was reported(Population). It then shows the distribution of deaths per
+day after the first person was vaccinated on 8/12/2020(Sample). Testing if
 data is normally distributed, then testing if the Sample can utilize 
-the same distribution as the Population
+the same distribution as the Population.
 
-Also compares statistics of selected country to the rest of the world 
+Also compares statistics of selected country to the rest of the world.
 
 Statistics displayed: total deaths, total cases, average deaths per day, average new cases per day, 
 highest deaths in a day, highest cases in a day, and percentage chance of death after becoming infected.  
