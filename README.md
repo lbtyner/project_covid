@@ -20,4 +20,4 @@ Tests used: shapiro-wilk, Mann-Whitney U Test
 Best used on countries with large populations EX: United States of America, The United Kingdom, India          
 
 all data is pulled from the World Heath Organization
-link to data: https://covid19.who.int/WHO-COVID-19-global-data.csv\n
+link to data: https://covid19.who.int/info
