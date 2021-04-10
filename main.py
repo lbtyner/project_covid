@@ -210,7 +210,7 @@ def filter_population(country):
     return results
 
 
-# sample = 100 days after vaccine
+# sample = days after vaccine
 def sample_data(country):
     population = df.loc[(df.Country == country) & (df.New_deaths > 0), ['Date_reported', 'New_deaths']]
     after = population.loc[(population.Date_reported >= '2020-12-08 ') &
